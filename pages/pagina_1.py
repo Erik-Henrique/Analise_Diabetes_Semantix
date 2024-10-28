@@ -3,9 +3,6 @@ import pandas as pd
 import numpy as np
 from imblearn.under_sampling import RandomUnderSampler
 
-st.set_page_config(layout='wide',
-                   page_title='Análise Diabetes')
-
 st.markdown('''## Este é o DataFrame que será usado no projeto. \n ##### Fique à vontade para visualizar todas as informações continas nele''')
 
 DATA_URL = (r"https://raw.githubusercontent.com/Erik-Henrique/Analise_Diabetes_Semantix/refs/heads/main/diabetes_prediction_dataset.csv")
