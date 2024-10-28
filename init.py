@@ -7,9 +7,9 @@ selection = st.sidebar.radio("Páginas:", ["Início", "Análise do DataFrame", "
 
 # Dicionário para mapear seleção para o nome do módulo
 pages = {
-  "Início": "Pages.1- Início",
-  "Análise do DataFrame": "Pages.2 - Análise do DataFrame",
-  "Resultados": "Pages.3 - Resultados",
+  "Início": "pages.1- Início",
+  "Análise do DataFrame": "pages.2 - Análise do DataFrame",
+  "Resultados": "pages.3 - Resultados",
 }
 
 # Importar e renderizar a página selecionada
