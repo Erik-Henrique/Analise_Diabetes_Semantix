@@ -10,8 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sn
 from pycaret.classification import *
 
-st.set_page_config(layout='wide',
-                   page_title='Análise Diabetes')
+
 
 st.markdown('''## Resultados do modelo.''')
 
