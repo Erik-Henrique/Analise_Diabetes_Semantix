@@ -4,7 +4,7 @@ from imblearn.under_sampling import RandomUnderSampler
 from pycaret.classification import *
 
 def app():
-
+#
   st.markdown('''## Resultados do modelo.''')
   
   DATA_URL = (r"https://raw.githubusercontent.com/Erik-Henrique/Analise_Diabetes_Semantix/refs/heads/main/diabetes_prediction_dataset.csv")
