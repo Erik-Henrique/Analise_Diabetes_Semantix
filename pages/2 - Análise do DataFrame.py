@@ -3,7 +3,7 @@ import pandas as pd
 from imblearn.under_sampling import RandomUnderSampler
 
 def app():
-  
+#
   st.markdown('''## Este é o DataFrame que será usado no projeto. \n ##### Fique à vontade para visualizar todas as informações continas nele''')
   
   DATA_URL = (r"https://raw.githubusercontent.com/Erik-Henrique/Analise_Diabetes_Semantix/refs/heads/main/diabetes_prediction_dataset.csv")
