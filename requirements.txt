@@ -1,3 +1,4 @@
 streamlit
 imblearn
 pandas
+pycaret
