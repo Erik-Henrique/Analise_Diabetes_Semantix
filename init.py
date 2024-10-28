@@ -8,7 +8,7 @@ selection = st.sidebar.radio("Páginas:", ["Início", "Análise do DataFrame", "
 # Dicionário para mapear seleção para o nome do módulo
 pages = {
   "Início": "Pages.1- Início",
-  "Análises gráficas": "Pages.2 - Análise do DataFrame",
+  "Análise do DataFrame": "Pages.2 - Análise do DataFrame",
   "Resultados": "Pages.3 - Resultados",
 }
 
