@@ -13,6 +13,7 @@ def app():
   under = RandomUnderSampler()
   x_under, y_under = under.fit_resample(df.drop(columns='diabete'), df['diabete'])
   df_under = pd.concat([x_under, y_under], axis=1)
-  
-  sns.histplot(x='idade', data=df_under)
-  st.pyplot()
+
+  fig, ax = plt.subplots()
+  ax.hist(x='idade', data=df_under)
+  st.pyplot(fig)
