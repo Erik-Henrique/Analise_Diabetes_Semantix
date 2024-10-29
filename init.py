@@ -9,7 +9,7 @@ selection = st.sidebar.radio("Páginas:", ["Início", "Análise do DataFrame", "
 pages = {
   "Início": "pages.1 - Início",
   "Análise do DataFrame": "pages.2 - Análise do DataFrame",
-  "Análises gráficas": "Pages.3 - Análises gráficas",
+  "Análises gráficas": "pages.3 - Análises gráficas",
   "Resultados": "pages.4 - Resultados",
 }
 
