@@ -2,3 +2,5 @@ streamlit
 imblearn
 pandas
 pycaret
+matplotlib
+seaborn
