@@ -4,7 +4,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 def app():
-  df = pd.read_csv('/content/diabetes_prediction_dataset.csv')
+  df = pd.read_csv('https://raw.githubusercontent.com/Erik-Henrique/Analise_Diabetes_Semantix/refs/heads/main/diabetes_prediction_dataset.csv')
   df.drop_duplicates(inplace=True)
   df.drop(df[df['genero']=="Other"].index, inplace=True)
   df.genero = df.genero.map({'Female': 0, 'Male': 1})
