@@ -33,14 +33,18 @@ Neste projeto, utilizamos dados de saúde de pacientes para treinar modelos de m
 
 ## Conjunto de Dados
 
-O conjunto de dados utilizado para este projeto é o [Pima Indians Diabetes Database](https://raw.githubusercontent.com/Erik-Henrique/Analise_Diabetes_Semantix/refs/heads/main/diabetes_prediction_dataset.csv), que contém informações sobre várias características dos pacientes, incluindo:
+O conjunto de dados utilizado para este projeto é o [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset), que contém informações sobre várias características dos pacientes, incluindo:
+
+![image](https://github.com/user-attachments/assets/ab91326e-0511-4321-a5a3-462accb5d545)
 
 - Idade
-- Peso
-- Altura
+- Gênero
+- Problemas cardiacos
 - Nível de glicose
 - Pressão arterial
-- História familiar de diabetes
+- IMC
+- Histórico de tabagismo
+- Nível de hemoglobina A1c
 
 ## Instalação
 
