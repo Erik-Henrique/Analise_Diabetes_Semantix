@@ -47,6 +47,10 @@ O conjunto de dados utilizado para este projeto é o [Diabetes Prediction Datase
 Para acessar o Web App do modelo basta acessar o link:
 https://analise-diabetes-semantix.onrender.com
 
+## Resultados
+
+Os resultados obtidos mostram que o modelo é capaz de prever a presença de diabetes com uma precisão de 96%, utilizando a técnica de Gradient Boosting Machine (GBM), como demonstrado nos gráficos e análises do projeto.
+
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
