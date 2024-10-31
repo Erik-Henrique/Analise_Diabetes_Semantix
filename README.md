@@ -9,11 +9,9 @@ Este projeto tem como objetivo desenvolver um modelo de machine learning capaz d
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Conjunto de Dados](#conjunto-de-dados)
-- [Instalação](#acesso-ao-web-app)
-- [Uso](#uso)
+- [Acesso ao Web App](#acesso-ao-web-app)
 - [Resultados](#resultados)
 - [Contribuições](#contribuições)
-- [Licença](#licença)
 
 ## Descrição do Projeto
 
@@ -47,4 +45,8 @@ O conjunto de dados utilizado para este projeto é o [Diabetes Prediction Datase
 ## Acesso ao Web App
 
 Para acessar o Web App do modelo basta acessar o link:
+https://analise-diabetes-semantix.onrender.com
 
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
