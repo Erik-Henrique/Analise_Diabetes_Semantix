@@ -1,7 +1,7 @@
 # Previsão de Diabetes com Machine Learning
 
-Este projeto tem como objetivo desenvolver um modelo de machine learning capaz de prever a ocorrência de diabetes em pacientes, utilizando um conjunto de dados de saúde. O foco é aplicar técnicas de análise de dados e algoritmos de machine learning para identificar fatores de risco e melhorar a detecção precoce da doença.
-
+Este projeto tem como objetivo desenvolver um modelo de machine learning capaz de prever a ocorrência de diabetes em pacientes, utilizando um conjunto de dados de saúde. O foco é aplicar técnicas de análise de dados e algoritmos de machine learning para identificar fatores de risco e melhorar a detecção da doença.
+![img](https://angioclinicabrasilia.com/wp-content/uploads/2023/09/relacao-entre-diabetes-e-doencas-vasculares.jpg)
 ## Tabela de Conteúdos
 
 - [Descrição do Projeto](#descrição-do-projeto)
