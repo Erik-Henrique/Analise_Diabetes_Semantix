@@ -1,8 +1,10 @@
 # Previsão de Diabetes com Machine Learning
 
 Este projeto tem como objetivo desenvolver um modelo de machine learning capaz de prever a ocorrência de diabetes em pacientes, utilizando um conjunto de dados de saúde. O foco é aplicar técnicas de análise de dados e algoritmos de machine learning para identificar fatores de risco e melhorar a detecção da doença.
+
 ![img](https://angioclinicabrasilia.com/wp-content/uploads/2023/09/relacao-entre-diabetes-e-doencas-vasculares.jpg)
-## Tabela de Conteúdos
+
+## Conteúdos
 
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
@@ -25,11 +27,13 @@ Neste projeto, utilizamos dados de saúde de pacientes para treinar modelos de m
 - Scikit-learn
 - Matplotlib
 - Seaborn
+- Scipy
+- Pycaret
 - Jupyter Notebook
 
 ## Conjunto de Dados
 
-O conjunto de dados utilizado para este projeto é o [Pima Indians Diabetes Database](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database), que contém informações sobre várias características dos pacientes, incluindo:
+O conjunto de dados utilizado para este projeto é o [Pima Indians Diabetes Database](https://raw.githubusercontent.com/Erik-Henrique/Analise_Diabetes_Semantix/refs/heads/main/diabetes_prediction_dataset.csv), que contém informações sobre várias características dos pacientes, incluindo:
 
 - Idade
 - Peso
