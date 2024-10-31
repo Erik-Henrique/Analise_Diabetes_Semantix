@@ -9,7 +9,7 @@ Este projeto tem como objetivo desenvolver um modelo de machine learning capaz d
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Conjunto de Dados](#conjunto-de-dados)
-- [Instalação](#instalação)
+- [Instalação](#acesso-ao-web-app)
 - [Uso](#uso)
 - [Resultados](#resultados)
 - [Contribuições](#contribuições)
@@ -44,6 +44,7 @@ O conjunto de dados utilizado para este projeto é o [Diabetes Prediction Datase
 - Histórico de tabagismo
 - Nível de hemoglobina A1c
 
-## Instalação
+## Acesso ao Web App
 
-Para executar este projeto em sua máquina local, siga os passos abaixo:
+Para acessar o Web App do modelo basta acessar o link:
+
