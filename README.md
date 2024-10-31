@@ -35,8 +35,6 @@ Neste projeto, utilizamos dados de saúde de pacientes para treinar modelos de m
 
 O conjunto de dados utilizado para este projeto é o [Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset), que contém informações sobre várias características dos pacientes, incluindo:
 
-![image](https://github.com/user-attachments/assets/ab91326e-0511-4321-a5a3-462accb5d545)
-
 - Idade
 - Gênero
 - Problemas cardiacos
