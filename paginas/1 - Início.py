@@ -2,8 +2,8 @@ import streamlit as st
 
 def app():
 #            
-            st.markdown('## Projeto para detecção de diabetes - SEMANTIX')
-            st.markdown('''#### O que é a diabetes?
+ st.markdown('## Projeto para detecção de diabetes - SEMANTIX')
+ st.markdown('''#### O que é a diabetes?
  Diabetes é uma síndrome metabólica de origem múltipla, decorrente da falta de insulina e/ou da incapacidade da insulina exercer adequadamente seus efeitos, \n
  caracterizando altas taxa de açúcar no sangue de forma permanente. A insulina é produzida pelo pâncreas, sendo responsável pela manutenção do metabolismo para \n
  permitir que tenhamos energia para manter o organismo em funcionamento. \n
@@ -17,4 +17,4 @@ def app():
  - Controlar a pressão arterial
  - Ter uma alimentação adequada
  - Praticar atividade física regularmente.''')
-            st.markdown('![img](https://angioclinicabrasilia.com/wp-content/uploads/2023/09/relacao-entre-diabetes-e-doencas-vasculares.jpg)')
+ st.markdown('![img](https://angioclinicabrasilia.com/wp-content/uploads/2023/09/relacao-entre-diabetes-e-doencas-vasculares.jpg)')
