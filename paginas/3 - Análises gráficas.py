@@ -119,7 +119,7 @@ def app():
         st.write('### Análise')
         st.write('A variável alvo foi redimensionada no DataFrame para que fiquem equilibradas e possam performar melhor no DataFrame e ajudar a encontrar padrões.')
   
-  if seleção == 'Distribuição da Variável Fumante':
+ if seleção == 'Distribuição da Variável Fumante':
       col1, col2 = st.columns(2)
     
      with col1:
